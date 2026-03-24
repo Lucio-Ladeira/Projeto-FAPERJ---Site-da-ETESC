@@ -1,10 +1,12 @@
+import { Hero } from "@/components/ui/hero-with-group-of-images-text-and-two-buttons";
 
-const HeroDemo = () => {
+function HeroDemo() {
   return (
-    <div>
-      <h1>HeroDemo</h1>
+    <div className="block">
+      <Hero />
     </div>
-  )
+  );
 }
 
-export default HeroDemo
+export { HeroDemo };
+export default HeroDemo;
