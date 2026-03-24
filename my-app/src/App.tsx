@@ -4,6 +4,12 @@ import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
 
+
+// components
+import HeroDemo from './components/hero/HeroDemo'
+
+// imgs?
+
 function App() {
   const [count, setCount] = useState(0)
 
@@ -114,6 +120,8 @@ function App() {
 
       <div className="ticks"></div>
       <section id="spacer"></section>
+
+      <HeroDemo></HeroDemo>
     </>
   )
 }
