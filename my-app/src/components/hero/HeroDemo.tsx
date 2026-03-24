@@ -1,8 +1,9 @@
-import React from 'react'
 
 const HeroDemo = () => {
   return (
-    <div>HeroDemo</div>
+    <div>
+      <h1>HeroDemo</h1>
+    </div>
   )
 }
 
