@@ -44,7 +44,7 @@ const Hero3: React.FC = () => {
   // ];
 
   return (
-    <div className="bg-white dark:bg-black w-full bg-[url('my-app\src\assets\ImagemFAETECSantaCruz.png')] bg-cover bg-center">
+    <div className="bg-white dark:bg-black w-full h-screen bg-[url('/ImagemFAETECSantaCruz.png')] bg-cover bg-center">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <header className="py-6">
           <nav className="flex items-center justify-between">
