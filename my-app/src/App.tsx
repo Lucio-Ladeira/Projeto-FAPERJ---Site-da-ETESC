@@ -6,7 +6,7 @@ import './App.css'
 
 
 // components
-import HeroDemo from './components/hero/HeroDemo'
+import Hero3 from './components/hero/HeroDemo'
 
 // imgs?
 
@@ -121,7 +121,7 @@ function App() {
       <div className="ticks"></div>
       <section id="spacer"></section>
 
-      <HeroDemo></HeroDemo>
+      <Hero3></Hero3>
     </>
   )
 }
