@@ -68,11 +68,11 @@ export default function AuroraView() {
       {/* demo ---------------------------------------------------------------- */}
       <main className="flex items-center justify-center font-sans text-black dark:text-white">
         <h1 className="text-6xl font-bold">
-          Create{" "}
+          Bem-vindo a{" "}
           <AuroraText speed={1} colors={["#38BDF8", "#3B82F6", "#EC4899"]}>
-            beautiful
+            Faetec
           </AuroraText>{" "}
-          things
+          Santa cruz
         </h1>
       </main>
     </>

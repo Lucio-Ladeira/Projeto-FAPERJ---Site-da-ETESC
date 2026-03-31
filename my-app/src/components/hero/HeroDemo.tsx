@@ -81,14 +81,7 @@ const Hero3: React.FC = () => {
 
         <main className="py-20 lg:py-32">
           <div className="text-center">
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-black dark:text-white leading-tight">
-              Bem vindo
-              <br />
-              <span className="text-blue-400">
-                A Etesc Santa cruz
-              </span>
               <AuroraView></AuroraView>
-            </h1>
 
             <p className="mt-6 text-xl text-gray-600 dark:text-gray-400 max-w-3xl mx-auto">
               Uma escola com foco na formação de carreira dos Jovens e Adultos. 
