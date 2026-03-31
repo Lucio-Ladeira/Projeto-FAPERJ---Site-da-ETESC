@@ -44,7 +44,7 @@ const Hero3: React.FC = () => {
   // ];
 
   return (
-    <div className="bg-white dark:bg-black w-full">
+    <div className="bg-white dark:bg-black w-full h-">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <header className="py-6">
           <nav className="flex items-center justify-between">
