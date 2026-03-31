@@ -129,7 +129,7 @@ function Footer2() {
     <footer className="py-10 px-4 sm:px-6 lg:px-8 font-inter relative overflow-hidden bg-black">
       <div className="max-w-7xl mx-auto flex flex-col items-center relative z-10">
         <div className="mb-6 flex items-center justify-center">
-          <img src="../assets/LogosemfundoFAETEC.png" alt="" />
+          <img src="my-app\src\assets\LogosemfundoFAETEC.png" alt="" />
           <span className="text-gray-900 dark:text-white text-3xl font-extrabold tracking-wide">
             Faetec
           </span>
