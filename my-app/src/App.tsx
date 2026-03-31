@@ -5,6 +5,7 @@ import './App.css'
 
 // components
 import Hero3 from './components/hero/HeroDemo'
+import Footer2 from './components/footer/FooterDemo'
 
 // imgs?
 
@@ -14,6 +15,7 @@ function App() {
   return (
     <>
       <Hero3></Hero3>
+      <Footer2></Footer2>
     </>
   )
 }
