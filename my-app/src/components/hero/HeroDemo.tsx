@@ -50,29 +50,29 @@ const Hero3: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <header className="py-6">
           <nav className="flex items-center justify-between">
-            <div className="text-2xl font-bold text-black dark:text-white">
+            <div className="text-2xl font-bold text-black ">
               Faetec
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <a
                 href="#"
-                className="text-gray-600 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors"
+                className="text-gray-600 dark:text-gray-400 hover:text-black  transition-colors"
               >
                 Turmas
               </a>
               <a
                 href="#"
-                className="text-gray-600 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors"
+                className="text-gray-600 dark:text-gray-400 hover:text-black  transition-colors"
               >
                 Inscrições
               </a>
               <a
                 href="#"
-                className="text-gray-600 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors"
+                className="text-gray-600 dark:text-gray-400 hover:text-black  transition-colors"
               >
                 Sobre
               </a>
-              <button className="bg-black text-white  px-6 py-2 rounded-md hover:bg-gray-800 dark:hover:bg-gray-200 transition-colors">
+              <button className="bg-black text-white  px-6 py-2 rounded-md hover:bg-gray-800  transition-colors">
                 Campo do Professor?
               </button>
             </div>
@@ -100,11 +100,11 @@ const Hero3: React.FC = () => {
             </div> */}
 
             <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
-              <button className="bg-black dark:bg-white text-white dark:text-black px-8 py-4 rounded-md font-semibold hover:bg-gray-800 dark:hover:bg-gray-200 transition-colors flex items-center justify-center gap-2">
+              <button className="bg-black dark:bg-blue-500 text-white dark:text-black px-8 py-4 rounded-md font-semibold hover:bg-blue-700 dark:hover:bg-gray-200 transition-colors flex items-center justify-center gap-2">
                 Inscrições
                 <ArrowRightIcon className="h-5 w-5" />
               </button>
-              <button className="border-2 border-black dark:border-white text-black dark:text-white px-8 py-4 rounded-md font-semibold hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
+              <button className="border-2 border-black  text-black  px-8 py-4 rounded-md font-semibold hover:bg-black hover:text-white  dark:hover:text-black transition-colors">
                 Turmas
               </button>
             </div>

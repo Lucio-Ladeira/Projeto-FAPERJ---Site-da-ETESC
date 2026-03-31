@@ -2,12 +2,12 @@
 
 function Footer2() {
   const navLinks = [
-    { name: "Features", href: "#" },
-    { name: "Solution", href: "#" },
-    { name: "Customers", href: "#" },
-    { name: "Pricing", href: "#" },
-    { name: "Help", href: "#" },
-    { name: "About", href: "#" },
+    { name: "Fale conosco", href: "#" },
+    { name: "FAQ", href: "#" },
+    { name: "Conheça mais", href: "#" },
+    { name: "Inscrições", href: "#" },
+    { name: "Ajuda", href: "#" },
+    { name: "Sobre", href: "#" },
   ];
 
   const socialIcons = [
