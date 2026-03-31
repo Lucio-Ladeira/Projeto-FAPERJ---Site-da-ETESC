@@ -1,6 +1,7 @@
 "use client";
 import React from "react";
 
+
 const ArrowRightIcon = ({ className }: { className?: string }) => (
   <svg
     className={className}
