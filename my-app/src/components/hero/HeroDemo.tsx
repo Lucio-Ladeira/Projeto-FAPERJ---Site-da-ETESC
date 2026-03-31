@@ -44,7 +44,7 @@ const Hero3: React.FC = () => {
   // ];
 
   return (
-    <div className="bg-white dark:bg-black w-full h-screen bg-[url('/ImagemFAETECSantaCruz.png')] bg-cover bg-center">
+    <div className="bg-white dark:bg-black w-full h-screen bg-[url('my-app\src\assets\ImagemFAETECSantaCruz.png')] bg-cover bg-center">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <header className="py-6">
           <nav className="flex items-center justify-between">
@@ -82,7 +82,7 @@ const Hero3: React.FC = () => {
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-black dark:text-white leading-tight">
               Bem vindo
               <br />
-              <span className="text-gray-600 dark:text-gray-400">
+              <span className="text-blue-400 dark:text-gray-400">
                 A Etesc Santa cruz
               </span>
             </h1>
