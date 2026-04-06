@@ -1,6 +1,7 @@
 'use client'
 import React from 'react';
-import { motion, Variants } from 'framer-motion';
+import { motion } from 'framer-motion';
+import type { Variants } from 'framer-motion';
 import { Home, Settings, Bell, User } from 'lucide-react';
 
 // --- MenuBar Component ---
