@@ -3,6 +3,7 @@ import React from "react";
 
 import AuroraView from "./Text";
 
+import logo from '../assets/logoSemFundoFAETEC.png';
 
 const ArrowRightIcon = ({ className }: { className?: string }) => (
   <svg
@@ -51,7 +52,7 @@ const Hero3: React.FC = () => {
         <header className="py-6">
           <nav className="flex items-center justify-between">
             <div>
-              <img src="/logoSemFundoFAETEC.png" alt="Logo da FAETEC" />
+              <img src={logo} alt="Logo da FAETEC" />
             </div>
             <div className="text-2xl font-bold text-black ">
               FAETEC
