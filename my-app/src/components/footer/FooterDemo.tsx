@@ -13,7 +13,7 @@ function Footer2() {
   const socialIcons = [
     {
       name: "X",
-      href: "#",
+      href: "https://x.com/eteetesc",
       svg: (
         <svg
           className="size-6 transition-transform duration-200 hover:scale-110"
@@ -31,7 +31,7 @@ function Footer2() {
     },
     {
       name: "LinkedIn",
-      href: "#",
+      href: "https://br.linkedin.com/company/escola-t-cnica-estadual-santa-cruz-etesc-faetec",
       svg: (
         <svg
           className="size-6 transition-transform duration-200 hover:scale-110"
@@ -49,7 +49,7 @@ function Footer2() {
     },
     {
       name: "Facebook",
-      href: "#",
+      href: "https://www.facebook.com/p/Escola-T%C3%A9cnica-Estadual-Santa-Cruz-100086137909230/",
       svg: (
         <svg
           className="size-6 transition-transform duration-200 hover:scale-110"
@@ -89,7 +89,7 @@ function Footer2() {
     },
     {
       name: "Instagram",
-      href: "#",
+      href: "https://www.instagram.com/ete_faetecsantacruz/?hl=pt-br",
       svg: (
         <svg
           className="size-6 transition-transform duration-200 hover:scale-110"
