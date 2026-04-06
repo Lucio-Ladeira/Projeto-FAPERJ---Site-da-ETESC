@@ -46,12 +46,12 @@ const Hero3: React.FC = () => {
   // ];
 
   return (
-    <div className="my-app/public/imagemFAETECSantaCruz.png  w-full  ">
+    <div className="/imagemFAETECSantaCruz.png  w-full  ">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <header className="py-6">
           <nav className="flex items-center justify-between">
             <div>
-              <img src="my-app/public/logoSemFundoFAETEC.png" alt="Logo da FAETEC" />
+              <img src="/logoSemFundoFAETEC.png" alt="Logo da FAETEC" />
             </div>
             <div className="text-2xl font-bold text-black ">
               FAETEC
