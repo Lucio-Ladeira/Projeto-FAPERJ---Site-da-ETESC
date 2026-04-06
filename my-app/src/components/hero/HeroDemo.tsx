@@ -3,7 +3,7 @@ import React from "react";
 
 import AuroraView from "./Text";
 
-import logo from '../assets/logoSemFundoFAETEC.png';
+import logo from 'C:\Users\USUARIO\Documents\GitHub\Projeto-FAPERJ---Site-da-ETESC\my-app\src\assets\imagemFAETECSantaCruz.png';
 
 const ArrowRightIcon = ({ className }: { className?: string }) => (
   <svg
