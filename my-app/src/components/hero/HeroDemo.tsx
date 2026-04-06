@@ -3,7 +3,7 @@ import React from "react";
 
 import AuroraView from "./Text";
 
-import logo from './imagemFAETECSantaCruz.png';
+import logo from '../assets/logoSemFundoFAETEC.png';
 
 const ArrowRightIcon = ({ className }: { className?: string }) => (
   <svg
@@ -85,10 +85,10 @@ const Hero3: React.FC = () => {
 
         <main className="py-20 lg:py-32">
           <div className="text-center">
-              <AuroraView></AuroraView>
+            <AuroraView></AuroraView>
 
             <p className="mt-6 text-xl text-gray-600 dark:text-gray-400 max-w-3xl mx-auto">
-              Uma escola com foco na formação de carreira dos Jovens e Adultos. 
+              Uma escola com foco na formação de carreira dos Jovens e Adultos.
             </p>
 
             {/* <div className="mt-8 flex flex-wrap justify-center gap-6">
@@ -113,7 +113,7 @@ const Hero3: React.FC = () => {
               </button>
             </div>
 
-            
+
           </div>
         </main>
       </div>
