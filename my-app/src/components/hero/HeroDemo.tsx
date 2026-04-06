@@ -52,6 +52,7 @@ const Hero3: React.FC = () => {
           <nav className="flex items-center justify-between">
             <div className="text-2xl font-bold text-black ">
               Faetec
+              <img src="my-app\src\assets\logoSemFundoFAETEC.png" alt="Logo da FAETEC" />
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <a
@@ -104,7 +105,7 @@ const Hero3: React.FC = () => {
                 Inscrições
                 <ArrowRightIcon className="h-5 w-5" />
               </button>
-              <button className="border-2 border-black  text-black  px-8 py-4 rounded-md font-semibold hover:bg-black hover:text-white  dark:hover:text-black transition-colors">
+              <button className="border-2 border-black  text-black  px-8 py-4 rounded-md font-semibold hover:bg-gray-200 hover:text-white  dark:hover:text-black transition-colors">
                 Turmas
               </button>
             </div>
