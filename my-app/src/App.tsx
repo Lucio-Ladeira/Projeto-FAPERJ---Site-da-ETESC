@@ -4,18 +4,22 @@ import './App.css'
 
 
 // components
+/*
 import Hero3 from './components/hero/HeroDemo'
 import Footer2 from './components/footer/FooterDemo'
+import MenuBar from './components/navgation/Navgation'
+*/
+
+// pages
+import Home1 from "./pages/Home.tsx"
 
 // imgs?
 
 function App() {
   // const [count, setCount] = useState(0)
-
   return (
     <>
-      <Hero3></Hero3>
-      <Footer2></Footer2>
+      <Home1></Home1>
     </>
   )
 }

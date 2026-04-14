@@ -1,0 +1,52 @@
+/* ------------- Para Mobile ------------- */
+@media (max-width: 768px) {
+    
+}
+
+/* ------------- Para Desktop ------------- */
+@media (min-width: 768px) {
+    .main-body {
+        /* Aparência */
+        background-color: blueviolet;
+        
+        /* Tamanho */
+        width: 100%;
+        height: 100%;
+
+    }
+
+    .card-container {
+
+    }
+
+    .card {
+        transition: 0.3s;
+
+        /* Aparência */
+        background-color: brown;
+        box-shadow: 3px 6px 10px black;
+
+        /* Tamanho e Formato */
+        width: 100%;
+        min-width: 250px;
+        max-width: 350px;
+        
+        padding: 12px 12px 12px 12px;
+
+        border-radius: 12px;
+
+        /* Posição */
+        align-items: center;
+        text-align: center;
+    }
+
+    .card h1 {
+        /* Fonte */
+        font-size: 40px;
+    }
+
+    .card:hover {
+        transition: 0.3s;
+        transform: scale(1.05);
+    }
+}
